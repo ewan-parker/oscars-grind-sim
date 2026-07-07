@@ -1,7 +1,7 @@
 # oscars-grind-sim
 a look into results of oscars grind betting strategy during repeated coin flips.
 
-### Oscar's Grind algorithm from [Oscar's Grind Wiki](https://en.wikipedia.org/wiki/Oscar%27s_grind)
+### Oscar's Grind algorithm from [Oscar's Grind Wiki](https://en.wikipedia.org/wiki/Oscar%27s_grind):
 
 ```
 unit := 1
